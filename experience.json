@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "role": "Network Executive",
+      "company": "Fu Info Tech Ltd.",
+      "start": "2024-05",
+      "end": "",
+      "points": [
+        "MikroTik & Cisco Routing",
+        "DHCP, DNS & IP Addressing",
+        "VLAN & Managed Switch Configuration",
+        "Firewall, VPN & Network Security",
+        "Python Automation",
+        "CCTV, NVR, DVR & Access Control Systems"
+      ]
+    }
+  ]
+}

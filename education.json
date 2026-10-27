@@ -1,0 +1,12 @@
+{
+  "education": [
+    { "degree": "BSc in Computer Science & Engineering", "institute": "Uttara University", "year": "Currently Pursuing", "gpa": "" },
+    { "degree": "Diploma in Engineering (Computer)", "institute": "Center for Technology Transfer (CTT) · BTEB", "year": "2023", "gpa": "3.76 / 4.00" },
+    { "degree": "Secondary School Certificate (SSC)", "institute": "Tumilia Boys' High School · Dhaka Board", "year": "2019", "gpa": "3.61 / 5.00" }
+  ],
+  "certifications": [
+    { "title": "MikroTik RouterOS", "detail": "Practical", "in_progress": false },
+    { "title": "Cisco CCNA", "detail": "In Progress", "in_progress": true },
+    { "title": "AI Tools", "detail": "ChatGPT · Claude · Gemini", "in_progress": false }
+  ]
+}

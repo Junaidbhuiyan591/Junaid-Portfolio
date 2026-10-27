@@ -1,0 +1,9 @@
+{
+  "groups": [
+    { "title": "Routing & Switching", "icon": "router", "items": ["MikroTik RouterOS", "Cisco Networking", "VLAN & Switching", "LAN / WAN"] },
+    { "title": "Security & VPN", "icon": "shield", "items": ["Network Security", "Firewall", "VPN (GRE / IPSec)"] },
+    { "title": "Network Services", "icon": "globe", "items": ["IP Addressing", "Subnetting", "DHCP & DNS"] },
+    { "title": "Automation & AI", "icon": "code", "items": ["Python Automation", "ChatGPT", "Claude", "Gemini"] },
+    { "title": "Surveillance & Security Systems", "icon": "camera", "items": ["CCTV / NVR / DVR", "AI Camera Analytics", "Access Control"] }
+  ]
+}

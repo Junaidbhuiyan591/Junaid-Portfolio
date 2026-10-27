@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "title": "Multi-Location Network Infrastructure",
+      "category": "Infrastructure",
+      "description": "Designed and maintained LAN/WAN connectivity across multiple office locations using MikroTik routers, VLAN segmentation and managed switches.",
+      "tags": ["MikroTik", "VLAN", "LAN / WAN", "Managed Switch"],
+      "visual": "network",
+      "image": "",
+      "pinned": false
+    },
+    {
+      "title": "Site-to-Site VPN",
+      "category": "Security",
+      "description": "Configured GRE and IPSec VPN tunnels to securely connect branch offices with encrypted communication.",
+      "tags": ["GRE", "IPSec", "Encryption", "MikroTik"],
+      "visual": "vpn",
+      "image": "",
+      "pinned": false
+    },
+    {
+      "title": "Python Network Automation",
+      "category": "Automation",
+      "description": "Developed automation scripts for router backup, scheduled restart and network health monitoring.",
+      "tags": ["Python", "Backup", "Scheduling", "Monitoring"],
+      "visual": "code",
+      "image": "",
+      "pinned": false
+    },
+    {
+      "title": "AI Surveillance System",
+      "category": "Surveillance",
+      "description": "Configured AI-based CCTV analytics including Human Detection, Vehicle Detection and People Counting.",
+      "tags": ["Dahua", "NVR", "AI Analytics", "People Counting"],
+      "visual": "camera",
+      "image": "",
+      "pinned": false
+    }
+  ]
+}
