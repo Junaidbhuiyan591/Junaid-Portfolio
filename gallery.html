@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab Gallery | Junaid Bhuiyan</title>
+    <meta name="description" content="Network lab configuration gallery by Junaid Bhuiyan - MikroTik, Cisco, managed switches and NVR setups.">
+    <meta name="theme-color" content="#0b0d12">
+    <link rel="icon" type="image/png" href="favicon.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body data-page="gallery">
+
+<header class="navbar scrolled">
+    <a href="index.html" class="logo" aria-label="Junaid Bhuiyan - home">
+        <span class="logo-mark">JB</span>
+        <span class="logo-text">
+            <strong>Junaid Bhuiyan</strong>
+            <small>Network Engineer</small>
+        </span>
+    </a>
+    <a href="index.html#lab" class="back-link">← Back to Home</a>
+</header>
+
+<main>
+<section class="section sub-page">
+    <div class="section-head">
+        <span class="eyebrow">Network Lab</span>
+        <h2>Configuration Gallery</h2>
+        <p class="section-sub"><span id="count">0</span> images · Tap any image to enlarge.</p>
+    </div>
+
+    <div class="lab-grid gallery" id="allGrid"></div>
+</section>
+</main>
+
+<footer>
+    <p>© <span id="year">2026</span> Junaid Bhuiyan · Network Engineer</p>
+    <a href="index.html">Home</a>
+</footer>
+
+<button id="topBtn" aria-label="Back to top">
+    <svg viewBox="0 0 24 24"><path d="M12 19V5m0 0l-6 6m6-6l6 6"/></svg>
+</button>
+
+<div class="lightbox" id="lightbox" aria-hidden="true">
+    <button class="lb-close" id="lbClose" aria-label="Close">×</button>
+    <img id="lbImg" alt="">
+    <p id="lbCaption"></p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
